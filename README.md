@@ -2,7 +2,7 @@
 
 ✨FOLLOW My Comments✨
 
-*First Step: Copy this👇👇👇👇And paste Termux 
+*First Step: Copy this👇👇👇👇And paste Termux And install kali and Type Clear And continue Second Step♥️
 
 pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh 
 
