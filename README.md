@@ -31,5 +31,5 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 
 🃏Tools Has install🃏
 
-⚠️Any Doubt Contact Me:7592988554⚠️
+
 
