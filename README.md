@@ -25,7 +25,7 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 
 *Tenth Step:#./install.sh
 
-*Eleventh Step:#aptinstall sudo  
+*Eleventh Step:#apt install sudo  
 
 *Twelveth Step:#sudo ./instainsane.sh
 
